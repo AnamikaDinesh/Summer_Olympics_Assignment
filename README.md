@@ -1,2 +1,7 @@
 # Summer_Olympics_Assignment
-Skill India AI/ML Internship:-  This repository is having all the codes with json files for used in AI/ML skill India Scholarship by Elite Techno Groups.Summer Olympics Data Analysis Assignment Data analysis and manipulation tool pandas is used. Bar graph is also plotted using Pandas for better representation of data analysis.
+Skill India AI/ML Internship:-  
+
+This repository is having codes for Assignment on  Summer Olympics Data Analysis forAI/ML skill India Scholarship by Elite Techno Groups.
+
+This Assignment on Summer Olympics Data Analysis using pandas and numpy. 
+Data analysis is done with Bar Graph Representation.
